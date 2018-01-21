@@ -1,6 +1,8 @@
-"Put Pixel" implementation using SDL library and C
+"Put Pixel" implementation using SDL library and C language.
 
-NOTE: Instead of write pixels directly on SDL Renderer, an intermediate Surface has been used and in the end copied in the renderer.
+NOTE1: Build: Build is targeted for windows user.
+
+NOTE2: Implementation: Instead of write pixels directly on SDL Renderer, an intermediate Surface has been used and in the end copied in the renderer.
 
 ''API''
 * gfx_init: initialize SDL context and window
