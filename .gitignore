@@ -1,5 +1,3 @@
 .vscode/
 **/*_SIMPLE
-SDL2/
-*.dll
 *.exe
